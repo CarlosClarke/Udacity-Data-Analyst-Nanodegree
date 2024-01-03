@@ -7,6 +7,6 @@ this repository encompasses the project files and notes associated with it.
 ## Program Outline
 Intro to Data Analysis
 Project: Investigate a Dataset
-"*"Anaconda
+* Anaconda
 In this lesson, you will get a quick glimpse at the Anaconda environment - one of the most popular environments for data analysis in Python.
 
