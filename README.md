@@ -6,7 +6,7 @@ this repository encompasses the project files and notes associated with it.
 
 ## Program Outline
 **Intro to Data Analysis**    
-See Project: [(here)]
+See Project: [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb)
 * **Anaconda**  
 This topic covers a brief overview of the Anaconda environment, widely recognized as one of the most popular environments for Python-based data analysis.
 * **Jupyter Notebooks**  
