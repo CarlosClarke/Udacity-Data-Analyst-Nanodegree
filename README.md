@@ -15,7 +15,7 @@ Jupyter Notebooks serve as an excellent resource for initiating Python code writ
 Explore the data analysis process and enhance your skills in investigating diverse datasets by utilizing Python and its robust packages tailored for data analysis.
 * **Programming Workflow for Data Analysis**  
 Expand your knowledge by delving into an alternative workflow for Python analysis. This includes exploring IPython's command line interface, composing scripts in text editors, and executing scripts in the terminal.
-Investigate a Dataset
+* **Investigate a Dataset**
 
 
 
