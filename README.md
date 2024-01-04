@@ -83,3 +83,36 @@ Cover fundamental programming concepts in the R syntax. Explore topics such as c
 * **Data Visualizations & EDA**  
 Dive into the practical aspects of creating plots in R. Experience the power of R to craft impressive visualizations with just a few lines of code.
 
+**Supervised Learning**  
+Project: Finding Donors for CharityML
+* **Machine Learning Bird’s Eye View**  
+Before delving into the numerous machine learning algorithms, it's crucial to take a step back and comprehend the broader perspective encompassing the entire field.
+* **Linear Regression**  
+Linear regression stands as one of the fundamental algorithms in the realm of machine learning.
+* **Perceptron Algorithm**  
+The perceptron algorithm serves as a method for classifying data and forms the foundational building block of neural networks.
+* **Decision Trees**  
+Decision trees represent a framework for decision-making, wherein each decision leads to a set of consequences or prompts additional decisions.
+* **Naïve Bayes**  
+Naïve Bayesian Algorithms serve as powerful tools for constructing classifiers for labeled data. Notably, Naïve Bayes is commonly applied in scenarios involving text data and classification problems.
+* **Support Vector Machines**  
+Support vector machines are a prevalent method employed for addressing classification problems, and their effectiveness is notably demonstrated through the application of the "kernel trick."
+* **Ensemble Methods**  
+Bagging and boosting are two prevalent ensemble methods that involve combining simple algorithms to create more advanced models, surpassing the performance of individual algorithms on their own.
+* **Model Evaluation Metrics**  
+Acquire knowledge of the primary metrics used to evaluate models, including accuracy, precision, and recall.
+* **Training and Tuning**  
+Familiarize yourself with the main types of errors that can occur during training and explore various methods to address and optimize your machine learning models.
+
+**Unsupervised Learning**  
+Project: Creating Customer Segments with Arvato
+* **Clustering**  
+Clustering stands out as one of the most prevalent unsupervised learning methods, with K-means clustering being a notable algorithm within this category.
+* **Hierarchical and Density Based Clustering**  
+The exploration of clustering methods persists, focusing on hierarchical clustering and density-based clustering, notably DBSCAN.
+* **Gaussian Mixture Models and Cluster Validation**  
+This topic covers the Gaussian mixture model clustering, followed by an exploration of the cluster analysis process and methods for validating clustering results.
+* **Dimensionality Reduction and PCA**  
+Frequently, there is a need to condense many features in data to a more concise and pertinent set. Principal Component Analysis, or PCA, serves as a method for feature extraction and dimensionality reduction in such cases.
+* **Random Projection and PCA**  
+This topic covers two other methods for feature extraction and dimensionality reduction: Projection and Independent Component Analysis (ICA).
