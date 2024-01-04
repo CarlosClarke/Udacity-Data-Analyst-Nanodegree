@@ -43,4 +43,10 @@ Acquire the knowledge and skills to implement multiple linear regression models 
 * **Logistic Regression**  
 Develop expertise in utilizing logistic regression models in Python. Gain the ability to interpret the results and assess the goodness of fit for your logistic regression model.
  
+**Data Modeling**  
+Project: Data Modeling with Postgres
+* **Intro to Data Modeling**  
+This topic covers the fundamental distinctions between relational and non-relational databases. The lesson will elucidate how each database type aligns with the varied requirements of data consumers.
+* **Relational Data Models**  
+This topic provides insight into the significance of data modeling, exploring the advantages and limitations of relational databases, and active engagement in creating schemas and tables within the Postgres environment.
 
