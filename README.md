@@ -6,7 +6,7 @@ this repository encompasses the project files and notes associated with it.
 
 ## Program Outline
 **Intro to Data Analysis**    
-See Project: [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb)
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Anaconda**  
 This topic covers a brief overview of the Anaconda environment, widely recognized as one of the most popular environments for Python-based data analysis.
 * **Jupyter Notebooks**  
@@ -17,7 +17,7 @@ Explore the data analysis process and enhance your skills in investigating diver
 Expand your knowledge by delving into an alternative workflow for Python analysis. This includes exploring IPython's command line interface, composing scripts in text editors, and executing scripts in the terminal.
 
 **Practical Statistics**  
-Project: Analyze A/B Test Results
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Descriptive Statistics**  
 This topic covers insights into data types, measures of central tendency, and the fundamentals of statistical notation. The following measures are examined: variability, distribution shape, and identifying outliers in the context of quantitative data.
 * **Probability**  
@@ -44,14 +44,14 @@ Acquire the knowledge and skills to implement multiple linear regression models 
 Develop expertise in utilizing logistic regression models in Python. Gain the ability to interpret the results and assess the goodness of fit for your logistic regression model.
  
 **Data Modeling**  
-Project: Data Modeling with Postgres
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Intro to Data Modeling**  
 This topic covers the fundamental distinctions between relational and non-relational databases. The lesson will elucidate how each database type aligns with the varied requirements of data consumers.
 * **Relational Data Models**  
 This topic provides insight into the significance of data modeling, exploring the advantages and limitations of relational databases, and active engagement in creating schemas and tables within the Postgres environment.
 
 **Data Wrangling**  
-Project: Wrangle and Analyze Data
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Intro to Data Wrangling**  
 Recognize each stage of the data wrangling process, encompassing gathering, assessing, and cleaning, by navigating through a concise walkthrough of the entire procedure.
 * **Gathering Data**  
@@ -62,7 +62,7 @@ Examine data for both quality and tidiness concerns through visual inspection an
 Utilize pandas in Python to rectify the identified quality and tidiness issues during the data assessment phase.
 
 **Data Visualization**  
-Project: Build Data Dashboards
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Data Visualization Fundamentals**  
 This topic covers the skills to assess the quality of data visualizations and construct high-quality visuals. The foundational aspects of data dashboards are covered.
 * **Design Principles**  
@@ -73,7 +73,7 @@ This topic goes through the process of constructing data visualizations in Table
 Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
 
 **R Programming (From Programming for Data Science)**  
-Project: Explore Bikeshare Data - R
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Intro to R**  
 This topic explores the factors contributing to the widespread popularity of R in the realm of data analysis.
 * **Syntax & Data Types**  
@@ -84,7 +84,7 @@ Cover fundamental programming concepts in the R syntax. Explore topics such as c
 Dive into the practical aspects of creating plots in R. Experience the power of R to craft impressive visualizations with just a few lines of code.
 
 **Supervised Learning**  
-Project: Finding Donors for CharityML
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Machine Learning Bird’s Eye View**  
 Before delving into the numerous machine learning algorithms, it's crucial to take a step back and comprehend the broader perspective encompassing the entire field.
 * **Linear Regression**  
@@ -105,7 +105,7 @@ Acquire knowledge of the primary metrics used to evaluate models, including accu
 Familiarize yourself with the main types of errors that can occur during training and explore various methods to address and optimize your machine learning models.
 
 **Unsupervised Learning**  
-Project: Creating Customer Segments with Arvato
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Clustering**  
 Clustering stands out as one of the most prevalent unsupervised learning methods, with K-means clustering being a notable algorithm within this category.
 * **Hierarchical and Density Based Clustering**  
