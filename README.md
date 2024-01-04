@@ -5,7 +5,7 @@ In January 2023, I commenced the Udacity Data Analyst Nanodegree program, and
 this repository encompasses the project files and notes associated with it.
 
 ## Program Outline
-Intro to Data Analysis
+Intro to Data Analysis  
 Project: Investigate a Dataset
 * **Anaconda**  
 This topic covers a brief overview of the Anaconda environment, widely recognized as one of the most popular environments for Python-based data analysis.
