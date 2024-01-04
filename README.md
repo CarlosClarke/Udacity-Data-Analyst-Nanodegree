@@ -50,3 +50,36 @@ This topic covers the fundamental distinctions between relational and non-relati
 * **Relational Data Models**  
 This topic provides insight into the significance of data modeling, exploring the advantages and limitations of relational databases, and active engagement in creating schemas and tables within the Postgres environment.
 
+**Data Wrangling**  
+Project: Wrangle and Analyze Data
+* **Intro to Data Wrangling**  
+Recognize each stage of the data wrangling process, encompassing gathering, assessing, and cleaning, by navigating through a concise walkthrough of the entire procedure.
+* **Gathering Data**  
+Collect data from diverse sources and an array of file formats using Python.
+* **Assessing Data**  
+Examine data for both quality and tidiness concerns through visual inspection and programmatically using pandas in Python.
+* **Cleaning Data**  
+Utilize pandas in Python to rectify the identified quality and tidiness issues during the data assessment phase.
+
+**Data Visualization**  
+Project: Build Data Dashboards
+* **Data Visualization Fundamentals**  
+This topic covers the skills to assess the quality of data visualizations and construct high-quality visuals. The foundational aspects of data dashboards are covered.
+* **Design Principles**  
+Theres' a need to apply optimal design practices and select the most suitable chart for specific situations, ensuring effective visualization implementation.
+* **Creating Visualizations in Tableau**  
+This topic goes through the process of constructing data visualizations in Tableau. The lesson covers the utilization of data hierarchies, filters, groups, sets, and calculated fields, along with the creation of map-based visualizations in Tableau.
+* **Telling Stories with Tableau**  
+Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
+
+**R Programming (From Programming for Data Science)**  
+Project: Explore Bikeshare Data - R
+* **Intro to R**  
+This topic explores the factors contributing to the widespread popularity of R in the realm of data analysis.
+* **Syntax & Data Types**  
+In this section, acquire a comprehensive understanding of interacting with the R interpreter and getting accustomed to the various data types accessible in R.
+* **Control Flow & Functions**  
+Cover fundamental programming concepts in the R syntax. Explore topics such as control flow, loops, and functions to build a strong foundation in programming with R.
+* **Data Visualizations & EDA**  
+Dive into the practical aspects of creating plots in R. Experience the power of R to craft impressive visualizations with just a few lines of code.
+
