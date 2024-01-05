@@ -43,7 +43,7 @@ Acquire the knowledge and skills to implement multiple linear regression models 
 Develop expertise in utilizing logistic regression models in Python. Gain the ability to interpret the results and assess the goodness of fit for your logistic regression model.
  
 **Data Modeling**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%203%20-%20ETL.ipynb) for the Project.
 * **Intro to Data Modeling**  
 This topic covers the fundamental distinctions between relational and non-relational databases. Each database type is also explained in regards to the various requirements of data consumers.
 * **Relational Data Models**  
