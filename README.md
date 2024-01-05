@@ -45,7 +45,7 @@ Develop expertise in utilizing logistic regression models in Python. Gain the ab
 **Data Modeling**  
 Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Intro to Data Modeling**  
-This topic covers the fundamental distinctions between relational and non-relational databases. The lesson will elucidate how each database type aligns with the varied requirements of data consumers.
+This topic covers the fundamental distinctions between relational and non-relational databases. Each database type is also explained in regards to the various requirements of data consumers.
 * **Relational Data Models**  
 This topic provides insight into the significance of data modeling, exploring the advantages and limitations of relational databases, and active engagement in creating schemas and tables within the Postgres environment.
 
@@ -67,7 +67,7 @@ This topic covers the skills to assess the quality of data visualizations and co
 * **Design Principles**  
 Theres' a need to apply optimal design practices and select the most suitable chart for specific situations, ensuring effective visualization implementation.
 * **Creating Visualizations in Tableau**  
-This topic goes through the process of constructing data visualizations in Tableau. The lesson covers the utilization of data hierarchies, filters, groups, sets, and calculated fields, along with the creation of map-based visualizations in Tableau.
+This topic goes through the process of constructing data visualizations in Tableau. The utilization of data hierarchies, filters, groups, sets, and calculated fields, along with the creation of map-based visualizations in Tableau, are also discuseed.
 * **Telling Stories with Tableau**  
 Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
 
