@@ -1,8 +1,7 @@
 # Udacity - Data Analyst Nanodegree
 Udacity's Data Analyst Nanodegree program outline and project files.
 
-In January 2023, I commenced the Udacity Data Analyst Nanodegree program, and 
-this repository encompasses the project files and notes associated with it.
+I began the Udacity Data Analyst Nanodegree program in January 2023, and this repository includes the associated project files and outline.
 
 ## Program Outline
 **Intro to Data Analysis**    
