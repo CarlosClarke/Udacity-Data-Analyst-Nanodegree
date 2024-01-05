@@ -16,7 +16,7 @@ Explore the data analysis process and enhance your skills in investigating diver
 Expand your knowledge by delving into an alternative workflow for Python analysis. This includes exploring IPython's command line interface, composing scripts in text editors, and executing scripts in the terminal.
 
 **Practical Statistics**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here]() for the Project.
 * **Descriptive Statistics**  
 This topic covers insights into data types, measures of central tendency, and the fundamentals of statistical notation. The following measures are examined: variability, distribution shape, and identifying outliers in the context of quantitative data.
 * **Probability**  
