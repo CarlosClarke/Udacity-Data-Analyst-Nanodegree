@@ -5,7 +5,7 @@ I began the Udacity Data Analyst Nanodegree program in January 2023, and this re
 
 ## Program Outline
 **Intro to Data Analysis**    
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie_Time_Analysis.ipynb) for the Project.
 * **Anaconda**  
 This topic covers a brief overview of the Anaconda environment, widely recognized as one of the most popular environments for Python-based data analysis.
 * **Jupyter Notebooks**  
