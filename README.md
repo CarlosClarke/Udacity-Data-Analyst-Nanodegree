@@ -60,17 +60,6 @@ Examine data for both quality and tidiness concerns through visual inspection an
 * **Cleaning Data**  
 Utilize pandas in Python to rectify the identified quality and tidiness issues during the data assessment phase.
 
-**Data Visualization**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
-* **Data Visualization Fundamentals**  
-This topic covers the skills to assess the quality of data visualizations and construct high-quality visuals. The foundational aspects of data dashboards are covered.
-* **Design Principles**  
-Theres' a need to apply optimal design practices and select the most suitable chart for specific situations, ensuring effective visualization implementation.
-* **Creating Visualizations in Tableau**  
-This topic goes through the process of constructing data visualizations in Tableau. The utilization of data hierarchies, filters, groups, sets, and calculated fields, along with the creation of map-based visualizations in Tableau, are also discuseed.
-* **Telling Stories with Tableau**  
-Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
-
 **R Programming (From Programming for Data Science)**  
 Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
 * **Intro to R**  
@@ -81,6 +70,17 @@ In this section, acquire a comprehensive understanding of interacting with the R
 Cover fundamental programming concepts in the R syntax. Explore topics such as control flow, loops, and functions to build a strong foundation in programming with R.
 * **Data Visualizations & EDA**  
 Dive into the practical aspects of creating plots in R. Experience the power of R to craft impressive visualizations with just a few lines of code.
+
+**Data Visualization**  
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+* **Data Visualization Fundamentals**  
+This topic covers the skills to assess the quality of data visualizations and construct high-quality visuals. The foundational aspects of data dashboards are covered.
+* **Design Principles**  
+Theres' a need to apply optimal design practices and select the most suitable chart for specific situations, ensuring effective visualization implementation.
+* **Creating Visualizations in Tableau**  
+This topic goes through the process of constructing data visualizations in Tableau. The utilization of data hierarchies, filters, groups, sets, and calculated fields, along with the creation of map-based visualizations in Tableau, are also discuseed.
+* **Telling Stories with Tableau**  
+Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
 
 **Supervised Learning**  
 Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
