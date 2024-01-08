@@ -72,7 +72,7 @@ Cover fundamental programming concepts in the R syntax. Explore topics such as c
 Dive into the practical aspects of creating plots in R. Experience the power of R to craft impressive visualizations with just a few lines of code.
 
 **Data Visualization**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here](https://public.tableau.com/app/profile/carlos.m.clarke/viz/Flight_Project_16500283678160/FlightStory?publish=yes) for the Project.
 * **Data Visualization Fundamentals**  
 This topic covers the skills to assess the quality of data visualizations and construct high-quality visuals. The foundational aspects of data dashboards are covered.
 * **Design Principles**  
