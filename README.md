@@ -83,7 +83,7 @@ This topic goes through the process of constructing data visualizations in Table
 Providing proficiencies in constructing interactive Tableau dashboards and mastering the art of narrating impactful stories through data visualization.
 
 **Supervised Learning**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%207%20-%20Finding_Donors.ipynb) for the Project.
 * **Machine Learning Bird’s Eye View**  
 Before delving into the numerous machine learning algorithms, it's crucial to take a step back and comprehend the broader perspective encompassing the entire field.
 * **Linear Regression**  
