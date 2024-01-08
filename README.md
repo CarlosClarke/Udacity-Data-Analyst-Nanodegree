@@ -104,7 +104,7 @@ Acquire knowledge of the primary metrics used to evaluate models, including accu
 Familiarize yourself with the main types of errors that can occur during training and explore various methods to address and optimize your machine learning models.
 
 **Unsupervised Learning**  
-Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%201%20-%20Movie%20Time%20Analysis.ipynb) for the Project.
+Click [here](https://github.com/CarlosClarke/Udacity-Data-Analyst-Nanodegree/blob/main/Project%208%20-%20Identify_Customer_Segments.ipynb) for the Project.
 * **Clustering**  
 Clustering stands out as one of the most prevalent unsupervised learning methods, with K-means clustering being a notable algorithm within this category.
 * **Hierarchical and Density Based Clustering**  
